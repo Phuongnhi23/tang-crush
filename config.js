@@ -14,6 +14,6 @@ const CONFIG = {
     reply: 'Há há, đồ tồyyy, đồ khùng đồ đinnn ',
     mess: 'Thôi t hiểu mà, riết rồi m cũng như t hoi =))',
     messDesc: 'Má t cười ẻ. Thấy sự khùng điên của t chưa :)).',
-    btnAccept: 'Rồi nhá =))',
+    btnAccept: 'Rồi nhá =)) ',
     messLink: 'https://www.facebook.com/messages/t/100050725470311. VD: https://m.me/nam.nodemy
 }
