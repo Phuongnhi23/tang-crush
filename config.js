@@ -10,7 +10,7 @@ const CONFIG = {
     btnYes: 'Không t thấy m không điên tí nào 😌 ',
     btnNo: 'Không, m điên lắm ',
     question:'Trên thế giới hơn 7 tỉ người mà chỉ có m khùng điên với t nhể '-' ',
-    btnReply: 'Gửi m, thông cảm xíu ddeeeeee ',
+    btnReply: 'Gửi m, thông cảm xíu đeeeee',
     reply: 'Há há, đồ tồyyy, đồ khùng đồ đinnn ',
     mess: 'Thôi t hiểu mà, riết rồi m cũng như t hoi =))',
     messDesc: 'Má t cười ẻ. Thấy sự khùng điên của t chưa :)).',
