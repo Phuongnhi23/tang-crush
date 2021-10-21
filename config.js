@@ -7,7 +7,7 @@ const CONFIG = {
     btnIntro: 'hihi',
     title: 'M là nhứt, nhứt m gòiii ;-; ',
     desc: 'Có phải t chiều m quá, m hư phả không =))  ',
-    btnYes: 'Không t thấy m không điên tí nào😌 ',
+    btnYes: 'Không t thấy m không điên tí nào 😌 ',
     btnNo: 'Không, m điên lắm ',
     question:'Trên thế giới hơn 7 tỉ người mà chỉ có m khùng điên với t nhể '-'',
     btnReply: 'Gửi m, thông cảm xíu ddeeeeee',
